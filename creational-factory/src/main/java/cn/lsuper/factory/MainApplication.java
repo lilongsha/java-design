@@ -1,5 +1,8 @@
 package cn.lsuper.factory;
 
+/**
+ * @author ALGiii
+ */
 public class MainApplication {
     public static void main(String[] args) throws ClassNotFoundException, InstantiationException, IllegalAccessException {
         ShapeFactory shapeFactory = new ShapeFactory();
