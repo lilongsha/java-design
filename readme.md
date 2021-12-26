@@ -1,3 +1,4 @@
+# 抄录自[菜鸟教程](https://www.runoob.com/design-pattern)
 # java design pattern
 
 1. ### **Creational Patterns(创建型模式)**
@@ -97,3 +98,6 @@
   - 需要生成的对象具有复杂的内部结构
   - 需要生成的对象内部属性本身相互依赖
 - #### 与工厂模式的区别：建造者模式更加关注与零件装配的顺序
+
+### Prototype Pattern(原型模式)
+- #### 
