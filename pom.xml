@@ -15,6 +15,7 @@
         <module>creational-builder</module>
         <module>creational-prototype</module>
         <module>structural-adapter</module>
+        <module>structural-bridge</module>
     </modules>
 
     <properties>
