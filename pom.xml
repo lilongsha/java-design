@@ -17,6 +17,7 @@
         <module>structural-adapter</module>
         <module>structural-bridge</module>
         <module>structural-filter</module>
+        <module>structural-composite</module>
     </modules>
 
     <properties>
