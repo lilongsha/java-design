@@ -23,6 +23,7 @@
         <module>structural-flyweight</module>
         <module>structural-proxy</module>
         <module>behavioral-chain</module>
+        <module>behavioral-command</module>
     </modules>
 
     <properties>
