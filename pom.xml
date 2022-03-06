@@ -24,6 +24,7 @@
         <module>structural-proxy</module>
         <module>behavioral-chain</module>
         <module>behavioral-command</module>
+        <module>behavioral-Interpreter</module>
     </modules>
 
     <properties>
