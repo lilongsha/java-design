@@ -25,6 +25,7 @@
         <module>behavioral-chain</module>
         <module>behavioral-command</module>
         <module>behavioral-Interpreter</module>
+        <module>behavioral-iterator</module>
     </modules>
 
     <properties>
