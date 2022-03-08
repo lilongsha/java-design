@@ -27,6 +27,7 @@
         <module>behavioral-Interpreter</module>
         <module>behavioral-iterator</module>
         <module>behavioral-mediator</module>
+        <module>behavioral-memento</module>
     </modules>
 
     <properties>
