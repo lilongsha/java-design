@@ -26,6 +26,7 @@
         <module>behavioral-command</module>
         <module>behavioral-Interpreter</module>
         <module>behavioral-iterator</module>
+        <module>behavioral-mediator</module>
     </modules>
 
     <properties>
