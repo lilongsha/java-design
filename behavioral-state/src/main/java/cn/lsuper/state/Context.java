@@ -1,3 +1,5 @@
+package cn.lsuper.state;
+
 /**
  * @author ALGiii
  */

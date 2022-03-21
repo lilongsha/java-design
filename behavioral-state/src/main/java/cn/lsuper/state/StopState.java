@@ -1,15 +1,17 @@
+package cn.lsuper.state;
+
 /**
  * @author ALGiii
  */
-public class StartState implements State{
+public class StopState implements State {
     @Override
     public void doAction(Context context) {
-        System.out.println("start state");
+        System.out.println("stop state");
         context.setState(this);
     }
 
     @Override
     public String toString() {
-        return "StartState{ start state }";
+        return "StopState{ stop state }";
     }
 }
