@@ -33,6 +33,7 @@
         <module>behavioral-null</module>
         <module>behavioral-strategy</module>
         <module>behavioral-template</module>
+        <module>behaviroal-vistor</module>
     </modules>
 
     <properties>
