@@ -32,6 +32,7 @@
         <module>behavioral-state</module>
         <module>behavioral-null</module>
         <module>behavioral-strategy</module>
+        <module>behavioral-template</module>
     </modules>
 
     <properties>
