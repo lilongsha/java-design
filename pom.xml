@@ -30,6 +30,7 @@
         <module>behavioral-memento</module>
         <module>behavioral-observer</module>
         <module>behavioral-state</module>
+        <module>behavioral-null</module>
     </modules>
 
     <properties>
