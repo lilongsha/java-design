@@ -4,6 +4,7 @@ package cn.lsuper.singleton;
  * 懒汉式
  * 懒加载，当获取实例时，如果未实例化，则实例化
  * 此方法非线程安全
+ * @author ALGiii
  */
 public class LazySingleObject {
     private static LazySingleObject instance;

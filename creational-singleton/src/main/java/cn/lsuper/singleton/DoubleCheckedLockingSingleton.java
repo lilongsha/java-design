@@ -6,6 +6,8 @@ package cn.lsuper.singleton;
  * 懒加载
  * 程序安全
  * 多程序情况下保持高性能，volatile
+ * 锁只有在第一次创建时才会加锁，实例化后将不再需要加锁
+ * @author ALGiii
  */
 public class DoubleCheckedLockingSingleton {
     private volatile static  DoubleCheckedLockingSingleton instance;

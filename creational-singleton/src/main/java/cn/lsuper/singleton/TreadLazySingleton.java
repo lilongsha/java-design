@@ -2,7 +2,8 @@ package cn.lsuper.singleton;
 
 /**
  * 懒汉式
- * 懒加载，加锁，线程安全
+ * 懒加载，加锁，线程安全，性能太低每次都要加锁
+ * @author ALGiii
  */
 public class TreadLazySingleton {
     private static TreadLazySingleton instance;

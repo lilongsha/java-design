@@ -1,5 +1,8 @@
 package cn.lsuper.singleton;
 
+/**
+ * @author ALGiii
+ */
 public class MainApplication {
     public static void main(String[] args) {
         SingleObject instance = SingleObject.getInstance();
@@ -19,5 +22,8 @@ public class MainApplication {
 
         EnumSingleton.INSTANCE.showMessage();
 
+        // 饿汉式单例
+        Runtime runtime = Runtime.getRuntime();
+        System.out.println(runtime);
     }
 }
